@@ -1,0 +1,7 @@
+rois_cc200_dir: /Users/williamlee/Workspace/python/app_dev_cnh/abide_rois_200_cpac_nofilt_noglobal/Outputs/cpac/nofilt_noglobal/rois_cc200
+unified_array_file: /Users/williamlee/Workspace/python/app_dev_cnh/data/unified_array.npy
+corr_matrices_file: /Users/williamlee/Workspace/python/app_dev_cnh/data/all_corr_matrices_clean.npy
+phenotype_csv: /Users/williamlee/Workspace/python/app_dev_cnh/Model/processing/Phenotypic_V1_0b_preprocessed1.csv
+bnt_dir: /Users/williamlee/Workspace/python/app_dev_cnh/BrainNetworkTransformer/source
+labels_abide_file: /Users/williamlee/Workspace/python/app_dev_cnh/data/labels_abide.npy
+subject_ids_abide_file: /Users/williamlee/Workspace/python/app_dev_cnh/data/subject_ids_abide.npy
